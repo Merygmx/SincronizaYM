@@ -1,7 +1,7 @@
 package sincroniza;
 /**
  * Este programa es un ejemplo del uso de hilos
- * @author YMGM
+ * @author YMGM y JMMMM
  */
 public class Sincroniza {
 
