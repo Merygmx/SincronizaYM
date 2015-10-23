@@ -17,7 +17,7 @@ public class Personal extends Thread{
    
     @Override
     public void run(){
-        System.out.println(nombre + " acaba de llegar a la oficce new.");
+        System.out.println(nombre + " acaba de llegar a la oficina");
         try {
             Thread.sleep(1000);
             //Verifico si es personal que esta es jefe o no
